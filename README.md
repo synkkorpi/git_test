@@ -1,0 +1,1 @@
+This is synkkorpi's first git project!
